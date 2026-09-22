@@ -14,3 +14,5 @@ A responsive hotel booking web app UI built with Sass (SCSS), following BEM meth
 - Sass / SCSS
 - CSS (Flexbox, Custom Properties)
 
+## Note
+This project is based on a well-known CSS/Sass learning course, built for practice.
